@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Johannes Rantapää"
-  avatar           : "profile.png"
+  avatar           : "profile_picture.jpg"
   bio              : "Student, 22 at OAMK, Oulu"
   location         : "Oulu"
   employer         :
@@ -99,22 +99,22 @@ author:
   github           : "Necromunda"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          : "https://www.youtube.com/channel/UCwkJFqd5RS26i43DNObvz4g"
+  wikipedia        : 
 
 
 # Reading Files
